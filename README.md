@@ -24,3 +24,5 @@ Recommended next request:
 > Build Milestone 1: scaffold a React + TypeScript + Vite app, add Three.js, create a modular `Application`, `FeatureRegistry`, `PoseScene`, `CameraController`, and render a simple procedural mannequin in T-pose with orbit camera controls. Keep the architecture object-oriented and make the mannequin feature toggleable.
 
 See [docs/next-steps.md](docs/next-steps.md) for the beginner-friendly roadmap and request templates.
+
+See [docs/progress.md](docs/progress.md) for the current progress summary and first implementation approval gate.
