@@ -14,3 +14,13 @@ This project is intended to become a local-first 3D pose guide generator for AI 
 - Outputs optimized for AI image generation reference workflows.
 
 See [docs/architecture.md](docs/architecture.md) for the initial modular architecture plan.
+
+## If you are new to the project
+
+Build this in milestones instead of requesting the entire app at once. Start with a running 3D web prototype, then add pose editing, exports, and optional advanced systems one by one.
+
+Recommended next request:
+
+> Build Milestone 1: scaffold a React + TypeScript + Vite app, add Three.js, create a modular `Application`, `FeatureRegistry`, `PoseScene`, `CameraController`, and render a simple procedural mannequin in T-pose with orbit camera controls. Keep the architecture object-oriented and make the mannequin feature toggleable.
+
+See [docs/next-steps.md](docs/next-steps.md) for the beginner-friendly roadmap and request templates.
